@@ -1,0 +1,15 @@
+.navbar-nav {
+  display: internal;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.navbar-nav img {
+  max-width: 150px;
+  height: auto;
+}
+
+.navbar-nav a {
+  display: inline-block;
+}
